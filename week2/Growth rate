@@ -1,0 +1,27 @@
+Question 1
+
+Order the given functions by increasing growth rate.
+
+f1(n)=n^3
+f2(n)=n^0.3
+f3(n)=n
+f4(n)=sqrt{n}
+f5(n)=n^2\sqrt{n}
+f6(n)=n^2
+
+Answer 1: 243561.
+
+2.Question 2
+
+Order the given functions by increasing growth rate.
+
+f1(n)=3^n
+f2(n)=nlog⁡2n(n*log 2 base n)
+f3(n)=log⁡4n(log 4 base n)
+f4(n)=n
+f5(n)=5log⁡2n(5*log 2 base n)
+f6(n)=n^2
+f7(n)=sqrt{n}
+f8(n)=2^{2n}
+
+Answer 2: 
