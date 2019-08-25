@@ -1,5 +1,10 @@
 Answer 1:
+(Selected both of the.)
+
+Take the project with the highest payment for completion, complete it and remove it from the pool of projects.
+
 If there are more than 3 projects in the pool, remove the project with the lowest payment for completion, don't work on this project. In the other case, remove the first project from the pool and work on this project.
+
 
 Answer 2:
 Choose projects with highest payment to work on from the pool of projects which now contains only 9 projects.
